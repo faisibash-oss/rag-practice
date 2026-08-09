@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+chroma_db/
 .DS_Store
 dist/
 build/
